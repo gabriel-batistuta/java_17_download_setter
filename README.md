@@ -7,7 +7,7 @@ the **java/jvm** version is **17 lts** and **.deb package**
 the path are placed in **.zshrc** or **.bashrc** depending on your shell
 
 # running
-```bash
+```shell
 git clone https://github.com/gabriel-batistuta/java_17_download_setter
 
 cd java_17_download_setter
