@@ -1,4 +1,4 @@
-SHELL= $(echo $0)
+SHELL=$(echo $0)
 
 if grep -q "zsh" <<< "$SHELL"; then
     shell="zsh"
